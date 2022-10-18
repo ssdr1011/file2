@@ -1,1 +1,2 @@
 this is ggg file
+this is ggg new line
